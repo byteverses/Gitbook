@@ -1,9 +1,4 @@
-# MyGitbook  
+# Table of contents
 
 * [Introduction](README.md)
 
-
-## IT  
-### JAVA
-
-## Other  
